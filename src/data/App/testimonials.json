@@ -1,0 +1,38 @@
+[
+  {
+    "stars": 5,
+    "comment": "“Since we started working with Juice, I have seen an increase in job applications.”",
+    "author": {
+      "image": "/assets/img/team/1.jpeg",
+      "name": "Senzo Mdluli",
+      "position": "Sale Director at Amazon Retail"
+    }
+  },
+  {
+    "stars": 5,
+    "comment": "“Our workplace is now full of positive energy. Juice has eliminated the financial stress from our employees.”",
+    "author": {
+      "image": "/assets/img/team/2.jpeg",
+      "name": "Banele Khumalo",
+      "position": "SEO & Marketing at Ebay Global"
+    }
+  },
+  {
+    "stars": 5,
+    "comment": "“I was stuck. I needed working capital to finish my project. Luckily Juice helped me move my business forward.”",
+    "author": {
+      "image": "/assets/img/team/3.jpeg",
+      "name": "Ayanda Hlope",
+      "position": "VP of Sale Development"
+    }
+  },
+  {
+    "stars": 5,
+    "comment": "“Receiving my money not all at once has allowed me not to feel like a millionaire during payday and end up wasting my money.”",
+    "author": {
+      "image": "/assets/img/team/4.jpeg",
+      "name": "Nonhle Mbuli",
+      "position": "Sale Product Management at Flipkart"
+    }
+  }
+]

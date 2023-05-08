@@ -1,0 +1,12 @@
+[
+  {
+    "icon": "fas fa-shield-alt",
+    "title": "Data Privacy",
+    "description": "We prioritize protecting your data. Our secure servers ensure that no third-party is granted access to your personal information. We collect and use your personal data to constantly improve your user experience."
+  },
+  {
+    "icon": "far fa-university",
+    "title": "Bank Level Security",
+    "description": "All application traffic is encryppted and protected by using 256-bit AES bank level encryption. This provides security between devices and our servers ensuring personal and transactional details are always kept private"
+  }
+]

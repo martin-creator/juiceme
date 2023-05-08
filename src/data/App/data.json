@@ -1,0 +1,35 @@
+[
+    {
+      "image": "/assets/img/icons/fe1.png",
+      "title": "1 billion",
+      "description": {
+        "text1": "Africa will have the world’s largest workforce in 10 years",
+        "text2": "and Security"
+      }
+    },
+    {
+      "image": "/assets/img/icons/fe2.png",
+        "title": "+80% ",
+      "description": {
+        "text1": "workforce will be deskless in manufacturing, construction, agriculture etc..",
+        "text2": "and Search"
+      }
+    },
+    {
+      "image": "/assets/img/icons/fe3.png",
+        "title": "70%         ",
+      "description": {
+        "text1": "of employees earn less than $500 a month ",
+        "text2": "Share"
+      },
+      "new": true
+    },
+    {
+      "image": "/assets/img/icons/fe4.png",
+        "title": "5 days",
+      "description": {
+        "text1": "Middle income earners spend up to 80% of their salary within 5 days of payday        ",
+        "text2": "Everywhere"
+      }
+    }
+  ]

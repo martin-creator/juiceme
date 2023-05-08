@@ -1,0 +1,18 @@
+[
+    {
+      "icon": "fas fa-wallet",
+      "title": "Financing",
+      "description": "Our finance features helps your business optimize your financial processes and achieve better results. With our digital tools, you can manage your spending, factor invoices, pay bills in bulk, and manage your vendors more efficiently. By bringing all of your financial data together in one place, you can easily see how your business is performing and identify areas for improvement."
+    },
+    {
+      "icon": "fas fa-user-cog",
+      "title": "Operations",
+      "description": "With Earnipay, businesses like yours can manage their employee information securely and confidently. With our people ops tools, you can easily stay compliant with payroll regulations and avoid errors or oversights. Our advanced business core technology handles your payroll seamlessly, guaranteeing timely payment for your valued employees."
+    },
+
+    {
+        "icon": "fas fa-users",
+        "title": "Employee Centric organisation ",
+        "description": "Our employee benefits solution is designed to help you improve your employee experience. You can become an employer of choice, attract and retain top talent, and save your business from lost revenue and productivity, by offering your employees on-demand pay and other benefits from Earnipay. This helps you create a positive work environment and stand out in a competitive job market."
+      }
+  ]
