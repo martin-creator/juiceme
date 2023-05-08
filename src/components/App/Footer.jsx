@@ -1,9 +1,9 @@
 import React from "react";
 import { Link } from "gatsby";
-import footerData from "data/Startup/footer.json";
-import footerDataRTL from "data/Startup/footer-rtl.json";
+import footerData from "data/App/footer.json";
 
-const Footer = ({ noWave, rtl }) => {
+
+const Footer = ({ noWave }) => {
   const handleMouseMove = (event) => {
     const dropDownToggler = event.target.classList.contains("dropdown-toggle")
       ? event.target
@@ -25,7 +25,7 @@ const Footer = ({ noWave, rtl }) => {
     dropDownMenu?.classList?.remove("show");
   };
 
-  const FooterData = rtl ? footerDataRTL : footerData;
+  const FooterData =  footerData;
 
   return (
     <footer
@@ -35,13 +35,10 @@ const Footer = ({ noWave, rtl }) => {
       <div className="container">
         <div className="section-head text-center style-4">
           <h2 className="mb-10">
-            {rtl ? "جاهز" : "Partner with "}{" "}
-            {rtl ? "للتنزيل" : "Juice"}{" "}
+            Partner with Juice
           </h2>
           <p>
-            {rtl
-              ? "اكتشف مساحاتك المفضلة الجديدة ، من ساو باولو إلى سيول. قم بالتنزيل من App Store أو Google Play."
-              : "Grow your business and become a truly employee centric organization"}
+            "Grow your business and become a truly employee centric organization
           </p>
           <div className="d-flex align-items-center justify-content-center mt-50">
             <a
@@ -50,7 +47,7 @@ const Footer = ({ noWave, rtl }) => {
               rel="noreferrer"
               target="_blank"
             >
-              <small> {rtl ? "تنزيل من متجر التطبيقات" : "Book Demo"}</small>
+              <small>Book Demo</small>
             </a>
             {/* <a href="https://play.google.com/store/apps" rel="noreferrer" className="btn rounded-pill hover-blue4 fw-bold border-blue4" target="_blank">
               <small> <i className="fab fa-google-play me-2 pe-2 border-end"></i> { rtl ? 'تنزيل من متجر ابل' : 'Download On Google Play' }</small>
@@ -64,7 +61,7 @@ const Footer = ({ noWave, rtl }) => {
               <div className="col-lg-4">
                 <div className="items">
                   <div className="title">
-                    {rtl ? "Itekseo - الأفضل في التسويق" : "Juiceme .Inc"}
+                    Juiceme .Inc
                   </div>
                   <ul>
                     {/* <li className="color-666 mb-2">
@@ -91,7 +88,7 @@ const Footer = ({ noWave, rtl }) => {
               </div>
               <div className="col-lg-4">
                 <div className="items">
-                  <div className="title ">{rtl ? "الخدمات" : "Legal"}</div>
+                  <div className="title ">Legal</div>
                   <ul className="color-666">
                     <li>
                       <Link to="/home-app-terms">
@@ -125,12 +122,10 @@ const Footer = ({ noWave, rtl }) => {
               <div className="col-lg-4 stye">
                 <div className="items">
                   <div className="title">
-                    {rtl ? "النشرة الإخبارية" : "Contact"}
+                    Contact
                   </div>
                   <p className="color-666">
-                    {rtl
-                      ? "سجل الآن للحصول على آخر التحديثات على"
-                      : "For business chat with our team"}{" "}
+                    For business chat with our team
                   </p>
 
                   <a href="mailto:business@juiceme.io">business@juiceme.io</a>
@@ -215,7 +210,7 @@ const Footer = ({ noWave, rtl }) => {
         </div>
         <div className="copywrite text-center">
           <small className="small">
-            {rtl ? "© 2022 حقوق التأليف والنشر" : "© 2022 Copyrights by"}{" "}
+            © 2022 Copyrights by
             <a href="#" className="fw-bold text-decoration-underline">
               Juiceme.Inc
             </a>{" "}

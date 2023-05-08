@@ -70,7 +70,7 @@ const Header = ({ rtl }) => {
             </div>
             <div className="col-lg-5">
               <div className="img">
-                <img src="/assets/img/header/header_4.png" alt="" />
+                <img src="/assets/img/header/headers_4.png" alt="" />
               </div>
             </div>
           </div>

@@ -1,56 +1,38 @@
-{
-  "numCards": [
-    {
-      "image": "/assets/img/icons/testi_s4_ic1.png",
-      "value": "2,5M+",
-      "type": {
-        "text1": "تحميل و",
-        "text2": "تثبيت"
-      }
-    },
-    {
-      "image": "/assets/img/icons/testi_s4_ic2.png",
-      "value": "4.8/5",
-      "stars": 5,
-      "type": "بناءاً على هذا العدد من التقييمات 1،258"
+[
+  {
+    "stars": 5,
+    "comment": "“أفضل لوحة تحكم لمتجرك ، woo أو shopify. قوية ومرنة للغاية. مُستَحسَن!”",
+    "author": {
+      "image": "/assets/img/team/1.jpeg",
+      "name": "توماس اريستين",
+      "position": "مدير مبيعات في Amazon Retail"
     }
-  ],
-  "testiCards": [
-    {
-      "userImg": "/assets/img/testimonials/user4.png",
-      "stars": 5,
-      "title": {
-        "text1": "“يمكنك حتى إرسال رسائل بريد إلكتروني إلى Evernote وجمع  ",
-        "text2": " كل الأشياء التي تحتاجها في مكان واحد.”"
-      },
-      "author": {
-        "name": "يورجن ك.",
-        "position": " أول قسم التسويق ",
-        "company": "Brator"
-      }
-    },
-    {
-      "userImg": "/assets/img/testimonials/user5.png",
-      "stars": 5,
-      "title": "“نوتيرو - الخيار الأول الذي أختاره لتطبيق الملاحظات. رائع”",
-      "author": {
-        "name": "فودن ص.",
-        "position": "مدير",
-        "company": "Ecoland Resort"
-      }
-    },
-    {
-      "userImg": "/assets/img/testimonials/user6.png",
-      "stars": 5,
-      "title": {
-        "text1": "”.هذا التطبيق جيد بجدية. إنه ببساطة ، نظيف و  ",
-        "text2": " متعة حقيقية في الاستخدام.”"
-      },
-      "author": {
-        "name": "Kerry T.",
-        "position": "مصمم",
-        "company": "Teckzone Inc"
-      }
+  },
+  {
+    "stars": 5,
+    "comment": "“تقدم Iteck الكثير من الميزات للمساعدة في زيادة CRO بشكل مذهل.”",
+    "author": {
+      "image": "/assets/img/team/2.jpeg",
+      "name": "كارلوس مارتينيلي",
+      "position": "مدير مبيعات بشركة اى باي"
     }
-  ]
-}
+  },
+  {
+    "stars": 5,
+    "comment": "“شكرا جزيلا لدعم فريق Iteck. سريع ومهني وودود للغاية. هذا المنتج يتم تحديثه وتحسينه كل يوم.”",
+    "author": {
+      "image": "/assets/img/team/3.jpeg",
+      "name": "إدوارد ميندي",
+      "position": "مدير مبيعات"
+    }
+  },
+  {
+    "stars": 5,
+    "comment": "“10/10 لجميع ما يتعلق بلوحة معلومات Iteck E-Com. إنه مثالي للغاية!”",
+    "author": {
+      "image": "/assets/img/team/4.jpeg",
+      "name": "لوكاس ديني",
+      "position": "بيع إدارة المنتجات في فليبكارت"
+    }
+  }
+]

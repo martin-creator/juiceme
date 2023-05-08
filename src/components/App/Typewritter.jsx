@@ -13,7 +13,7 @@ const TypeWritter = () => {
   ];
   const sentenceFragmentTwo = "that they can’t wait until payday?";
 
-  const sentences = sentenceFragmentMiddle.map((sentence) => `${sentenceFragmentOne} ${sentence} ${sentenceFragmentTwo}`);
+  // const sentences = sentenceFragmentMiddle.map((sentence) => `${sentenceFragmentOne} ${sentence} ${sentenceFragmentTwo}`);
 
     
 

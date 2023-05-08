@@ -18,8 +18,22 @@ import Community from 'components/App/Community';
 import Footer from 'components/App/Footer';
 import Companies from 'components/App/Companies';
 
+//= Scripts
+import { fixPreviewStylesheetOrder } from 'common/fixStylesheetsOrder';
+
 const HomeAppLanding = () => {
   const navbarRef = useRef(null);
+
+  useEffect(() => {
+    
+    document.body.classList.add('index-main');
+    return () => document.body.classList.remove('index-main');
+    
+  }, []);
+
+  useEffect(() => {
+    fixPreviewStylesheetOrder();
+  }, []);
 
   useEffect(() => {
     navbarScrollEffect(navbarRef.current);

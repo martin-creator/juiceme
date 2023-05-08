@@ -27,10 +27,10 @@
     { "active": false, "title": "Easy to switch between light and dark mode" }
   ],
   "integrations": [
-    "/assets/img/about/intg1.png",
-    "/assets/img/about/intg5.png",
-    "/assets/img/about/intg4.png",
-    "/assets/img/about/intg3.png",
-    "/assets/img/about/intg2.png"
+    "/assets/img/about/intgs1.png",
+    "/assets/img/about/intgs5.png",
+    "/assets/img/about/intgs4.png",
+    "/assets/img/about/intgs3.png",
+    "/assets/img/about/intgs2.png"
   ]
 }

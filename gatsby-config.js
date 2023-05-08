@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Iteck',
-    description: 'Iteck - Multi-Purpose React.js Gatsby Template',
-    author: 'ThemesCamp'
+    title: 'Juice',
+    description: 'An HR and Payroll software add-on',
+    author: 'Juice'
   },
   plugins: [
     'gatsby-plugin-resolve-src',

@@ -9,7 +9,7 @@ const Navbar = ({ navbarRef }) => {
     >
       <div className="container">
         <a className="navbar-brand" href="/home-app-landing">
-          <img src="/assets/img/logo_lgr.png" alt="" />
+          <img src="/assets/img/logo_large.png" alt="" />
         </a>
         <button
           className="navbar-toggler"

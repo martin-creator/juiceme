@@ -2,7 +2,7 @@ import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import SwiperCore, { Pagination, Autoplay } from 'swiper';
 import testimonials from 'data/app/testimonials.json';
-import testimonialsRTL from 'data/Saas/testimonials-rtl.json';
+import testimonialsRTL from 'data/App/testimonials-rtl.json';
 
 import "swiper/css";
 import 'swiper/css/autoplay';
